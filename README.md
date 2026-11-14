@@ -87,6 +87,8 @@ Comportamento Financeiro e Inadimplência.
 Insights e Recomendações Estratégicas.
 
 **Link do dashboard:** [Acessar Dashboard — Análise de Crédito e Prevenção à Inadimplência](https://datastudio.google.com/reporting/28ecf7a5-005e-49f4-a737-56db4e90a6c2)
+### Prévia do Dashboard
+![Dashboard - Perfil e Visão Geral dos Clientes](imagens/dashboard_visao_geral.png)
 
 ## Estrutura do repositório
 
