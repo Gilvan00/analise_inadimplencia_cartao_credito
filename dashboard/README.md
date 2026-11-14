@@ -22,7 +22,7 @@ Apresenta a interpretação dos resultados e recomendações para apoiar ações
 
 Acesso ao dashboard
 
-Link: https://datastudio.google.com/reporting/28ecf7a5-005e-49f4-a737-56db4e90a6c2
+**Link:** [Acessar Dashboard — Análise de Crédito e Prevenção à Inadimplência](https://datastudio.google.com/reporting/28ecf7a5-005e-49f4-a737-56db4e90a6c2)
 
 ## Ferramenta utilizada
 
