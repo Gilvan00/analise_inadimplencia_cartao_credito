@@ -92,7 +92,6 @@ Insights e Recomendações Estratégicas.
 
 ## Estrutura do repositório
 
-dados/: informações sobre a base de dados.
 
 notebooks/: notebooks de análise e Machine Learning.
 
